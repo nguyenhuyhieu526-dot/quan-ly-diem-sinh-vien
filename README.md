@@ -78,6 +78,4 @@ st.pyplot(fig)
 # Thông tin người tạo
 st.markdown("---")
 st.markdown("<p style='font-size:12px; color:gray;'>Họ tên: Nguyễn Xuân Hoàng Hiệp | MSSV: [037208003830]</p>", unsafe_allow_html=True)
-# Thông tin người tạo
-st.markdown("---")
-st.markdown("<p style='font-size:12px; color:gray;'>Họ tên: Nguyễn Huy Hiếu | MSSV: [ĐIỀN MSSV CỦA BẠN]</p>", unsafe_allow_html=True)
+
